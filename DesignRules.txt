@@ -1,0 +1,7 @@
+1. Isolate the design parts
+2. Decide components with tried and tested parts
+3. Removable headers for isolated testing
+4. Add header pins along the edge of the board to store flags
+5. Test points with holes along the edge with ground next to them
+   will be ideal test points.
+6. Through hole USB connector.
